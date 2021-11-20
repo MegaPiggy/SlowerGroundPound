@@ -1,0 +1,8 @@
+﻿{
+  "id": "slowgroundpound",
+  "name": "Slower Ground Pound", 
+  "author": "MegaPiggy", 
+  "description": "Slows down the speed of falling when ground pounding.", 
+  "version":  "1.0",
+  "nosave": true
+}
